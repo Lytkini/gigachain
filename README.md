@@ -150,7 +150,16 @@ while(True):
 
 ### Примеры приложений для Streamlit
 
-- [Чат-бот на базе GigaChat с потоковой генерацией и разными видами авторизации](libs/streamlit_agent/gigachat_streaming.py) [Try demo](https://gigachat-streaming.streamlit.app/)
+Streamlit — библиотека, упрощающая разработку веб-приложений работающих с большими языковыми моделями (LLM).
+
+В настоящий момент доступен только один пример — [чат-бот на базе GigaChat с потоковой генерацией и разными видами авторизации](libs/streamlit_agent/gigachat_streaming.py).
+
+Посмотреть как работает веб-приложение можно по [ссылке](https://gigachat-streaming.streamlit.app/).
+
+Этот и другие примеры хранятся в разделе [Примеры агентов GigaChain для Streamlit](libs/streamlit_agent/README.md).
+
+> [!NOTE]
+> Список примеров будет пополняться.
 
 ### Примеры сторонних приложений, использующих GigaChain
 - [GigaShell - copilot для командной строки](https://github.com/Rai220/GigaShell)
