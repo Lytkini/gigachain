@@ -4,12 +4,7 @@
 
 Streamlit — библиотека, ускоряющая разработку веб-приложений работающих с большими языковыми моделями (LLM).
 
-Пример веб-приложения с чат-ботом на основе GigaChat:
-
-<iframe loading="lazy" src="https://gigachat-streaming.streamlit.app/?embed=true&embed_options=light_theme"
-    style={{ width: 100 + '%', border: 'none', marginBottom: 1 + 'rem', height: 600 }}
-    allow="camera;clipboard-read;clipboard-write;"
-></iframe>
+В настоящий момент доступен только один пример — [Чат-бот на базе GigaChat с потоковой генерацией и несколькими способами авторизации](./gigachat_streaming.py).
 
 ## Установка
 
@@ -22,8 +17,6 @@ pip install langchain streamlit
 Подробную инструкцию по работе с библиотекой ищите в [официальной документации.](https://docs.streamlit.io/library/get-started)
 
 ## Список примеров
-
-В настоящий момент доступен только один пример — [Чат-бот на базе GigaChat с потоковой генерацией и разными видами авторизации](./gigachat_streaming.py).
 
 > [!NOTE]
 > Список примеров будет пополняться.
